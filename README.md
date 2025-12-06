@@ -1,3 +1,8 @@
+# 用法
+***更新每页查询数量***，但是修改之后需要重启进程才能生效。
+<img width="2468" height="753" alt="image" src="https://github.com/user-attachments/assets/023c5d49-24b3-49e2-ae0e-91fb3b57c942" />
+***右上角不管已下载任务只能保存当前窗口，重开之后，配置失效***
+
 # INeedBiliAV - BilibiliDown
 ![语言java](https://img.shields.io/badge/Require-java-green.svg)
 ![支持系统 Win/Linux/Mac](https://img.shields.io/badge/Platform-%20win%20|%20linux%20|%20mac-lightgrey.svg)
@@ -54,5 +59,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
 
 
